@@ -1,4 +1,5 @@
 import sys,time *
 print("Hello")
 print("world")
+print("Hi")
 print("Hello, world!")
